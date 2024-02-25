@@ -1,4 +1,4 @@
 # server parameters added on 25/02/2024
-server.port=8081
-server.timeout=100ms
+server.port=9091
+server.timeout=200ms
 server.name=ouzera-main-server
