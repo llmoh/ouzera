@@ -1,2 +1,3 @@
 server.port=8081
 server.timeout=100ms
+server.security.token=A**JA0°AM452+°927#Z
