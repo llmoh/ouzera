@@ -1,3 +1,5 @@
 server.port=8081
 server.timeout=100ms
 server.security.token=A**JA0°AM452+°927#Z
+server.security.publicKey=1z321e3z2r13zr4"65421é321&6'54é"6(54é2"1(3é2"1(65é4(5132fs3qf2135s4f98798aé6e1'6é&545fsqcxwdqzraf3qs0c3za2r1
+
