@@ -1,8 +1,12 @@
 # server parameters added on 25/02/2024
 server.port=9091
-server.timeout=200ms
+server.connection-timeout=200ms
 server.name=ouzera-main-server
-server.security.token=A**JA0°AM452+°927#Z
-server.security.publicKey=HDT52794°+833*/2899EZ2421111144123124°03+2+233..?.4?24O4OLKJSKJ3U0AUA902U°0LKAEKLEKMALK
+server.security.token=TZRSG25639çàà'_çà_é-(6TTZYYZHSYZ¨%ùù¨¨)
+server.security.publicKey=YET3H3+2°949E82KMLZOI2983874°ààçéç928636386
 server.connections.max=1024
-server.connections.maxMemery=2000M
+server.connections.maxMemory=2000M
+server.connections.maxTry=5
+server.connections.lock-after-failure-time=60s
+
+
