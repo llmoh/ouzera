@@ -2,3 +2,5 @@
 server.port=9091
 server.timeout=200ms
 server.name=ouzera-main-server
+server.advanced-security-pwd=flkjlkej0+°0dç_àç_zç_èç_"è_""àç)à)))0))°°°°°
+server.timeout=100ms
